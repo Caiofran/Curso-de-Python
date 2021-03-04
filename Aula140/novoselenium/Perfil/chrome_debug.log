@@ -1,0 +1,3 @@
+[8448:8200:0302/133935.398:INFO:CONSOLE(1)] "A preload for 'https://github.com/webgl-globe/data/data.json' is found, but is not used because the request credentials mode does not match. Consider taking a look at crossorigin attribute.", source: https://github.githubassets.com/assets/webgl-globe-e0e5d650.js (1)
+[8448:8200:0302/133936.546:ERROR:device_event_log_impl.cc(211)] [13:39:36.545] USB: usb_device_handle_win.cc:1049 Failed to read descriptor from node connection: Um dispositivo conectado ao sistema não está funcionando. (0x1F)
+[8448:8200:0302/133949.757:WARNING:pref_notifier_impl.cc(40)] Pref observer for media_router.cast_allow_all_ips found at shutdown.
